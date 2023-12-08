@@ -1,14 +1,18 @@
 import sem_1.Task_3;
 import sem_1.Task_4;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
 
-        Integer[] test = {1, null, 3, null};
 
 
-        Task_4 task4 = new  Task_4();
-        task4.checkNull(test);
+        //Integer[] test = {1, null, 3, null};
+//
+//
+        //Task_4 task4 = new  Task_4();
+        //task4.checkNull(test);
 
 
 
